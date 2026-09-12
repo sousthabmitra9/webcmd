@@ -1,0 +1,1 @@
+{"name":"job-seeker-agent","private":true,"scripts":{"start":"node server.js","test":"node --test"},"dependencies":{"pdf-parse":"^2.4.5"}}
